@@ -12,9 +12,11 @@
 
 ### Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [demo-project](https://github.com/Dasooul03/demo-project) | Java utility tools (String, Date, File) | Java, Maven |
+| Project | Description |
+|---------|-------------|
+| [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research and analysis |
+| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent system for indexing code repos and answering questions |
+| [Video-Content-Moderation](https://github.com/Dasooul03/Video-Content-Moderation) | Video content moderation tool |
 
 ### Tech Stack
 
