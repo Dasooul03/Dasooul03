@@ -4,21 +4,21 @@
 
 ---
 
-### About Me
+### About Me / 关于我
 
-- 专注于后端开发、全栈应用及 AI Agent 开发
-- 持续学习中，关注技术前沿
-- 喜欢用代码解决实际问题
+- 专注于后端开发、全栈应用及 AI Agent 开发 `Focused on backend, full-stack & AI Agent development`
+- 持续学习，关注技术前沿 `Always learning, staying current with tech trends`
+- 用代码解决实际问题 `Building practical solutions with code`
 
-### Projects
+### Projects / 项目
 
-| Project | Description |
-|---------|-------------|
-| [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research and analysis |
-| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent system for indexing code repos and answering questions |
-| [Video-Content-Moderation](https://github.com/Dasooul03/Video-Content-Moderation) | Video content moderation tool |
+| Project | Description / 描述 |
+|---------|-------------------|
+| [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research and analysis / DeFi 研究与分析 AI 代理 |
+| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent for indexing code repos and answering questions / 代码库索引与问答 AI 代理 |
+| [Video-Content-Moderation](https://github.com/Dasooul03/Video-Content-Moderation) | Video content moderation tool / 视频内容审核工具 |
 
-### Tech Stack
+### Tech Stack / 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### Contact
+### Contact / 联系方式
 
 <p align="center">
   <a href="mailto:daijuyicoding@qq.com">
