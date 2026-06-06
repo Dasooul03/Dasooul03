@@ -6,9 +6,9 @@
 
 ### About Me / 关于我
 
-- 专注于后端开发、全栈应用及 AI Agent 开发 `Focused on backend, full-stack & AI Agent development`
-- 持续学习，关注技术前沿 `Always learning, staying current with tech trends`
-- 用代码解决实际问题 `Building practical solutions with code`
+- Focused on backend, full-stack & AI Agent development / 专注于后端开发、全栈应用及 AI Agent 开发
+- Always learning, staying current with tech trends / 持续学习，关注技术前沿
+- Building practical solutions with code / 用代码解决实际问题
 
 ### Projects / 项目
 
