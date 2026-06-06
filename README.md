@@ -10,6 +10,12 @@
 - 持续学习中，关注技术前沿
 - 喜欢用代码解决实际问题
 
+### Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [demo-project](https://github.com/Dasooul03/demo-project) | Java utility tools (String, Date, File) | Java, Maven |
+
 ### Tech Stack
 
 <p align="center">
