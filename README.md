@@ -16,7 +16,7 @@
 |---------|-------------------|
 | [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research and analysis / DeFi 研究与分析 AI 代理 |
 | [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent for indexing code repos and answering questions / 代码库索引与问答 AI 代理 |
-| [Video-Content-Moderation](https://github.com/Dasooul03/Video-Content-Moderation) | Video content moderation tool / 视频内容审核工具 |
+| [video-content-moderation](https://github.com/Dasooul03/video-content-moderation) | Video content moderation tool / 视频内容审核工具 |
 
 ### Tech Stack / 技术栈
 
