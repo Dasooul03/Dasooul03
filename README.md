@@ -63,4 +63,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dasooul03&color=blue&style=flat-square" alt="Profile Views" />
+  <br/>
+  <sub>Updated Jun 2026 | 日拱一卒</sub>
 </p>
