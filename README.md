@@ -4,24 +4,28 @@
 
 ---
 
-### About Me / 鍏充簬鎴?
-- Focused on backend, full-stack & AI Agent development / 涓撴敞浜庡悗绔€佸叏鏍堝簲鐢ㄥ強 AI Agent 寮€鍙?- Building multi-agent systems with RAG, MCP, and LLM orchestration / 鏋勫缓鍩轰簬 RAG銆丮CP 鍙婂ぇ妯″瀷缂栨帓鐨勫鏅鸿兘浣撶郴缁?- Always learning, staying current with tech trends / 鎸佺画瀛︿範锛岀揣璺熸妧鏈墠娌?
-### Projects / 椤圭洰
+### About Me / 关于我
 
-| Project | Description / 鎻忚堪 |
+- Focused on backend, full-stack & AI Agent development / 专注于后端、全栈应用及 AI Agent 开发
+- Building multi-agent systems with RAG, MCP, and LLM orchestration / 构建基于 RAG、MCP 及大模型编排的多智能体系统
+- Always learning, staying current with tech trends / 持续学习，紧跟技术前沿
+
+### Projects / 项目
+
+| Project | Description / 描述 |
 |---------|-------------------|
-| [oh-my-agent](https://github.com/Dasooul03/oh-my-agent) | Cross-agent governance layer for AI coding agents 鈥?audit, policy, context, MCP |
-| [ai-install-assistant](https://github.com/Dasooul03/ai-install-assistant) | 馃 Enterprise-grade multi-agent AI platform for software installation & deployment. Powered by Spring Boot + Spring AI + LangChain4j + MCP + RAG + Milvus. / 浼佷笟绾ф櫤鑳藉畨瑁呴儴缃插钩鍙帮紝鏀寔 Agent Router銆佸妯℃€佽瘑鍒€丷AG 妫€绱笌鑷姩鍖栨祦绋?|
-| [boss_agent](https://github.com/Dasooul03/boss_agent) | BOSS 鐩磋仒鑷姩鎶曢€掓満鍣ㄤ汉 鈥?Python + Tampermonkey 鑷姩绛涢€夊叧閿瓧鎶曢€?|
-| [spark-reimbursement](https://github.com/Dasooul03/spark-reimbursement) | AI 鏅鸿兘鎶ラ攢瀹℃牳涓庨噾铦跺嚟璇佷腑鍙扮郴缁?鈥?Spring Boot 3.4 + OCR + AI 鍒濆 + PDF 鍑瘉 |
-| [code-review-agent](https://github.com/Dasooul03/code-review-agent) | 鏅鸿兘浠ｇ爜瀹℃煡 Agent 鈥?瀵规瘡涓?PR/MR 杩涜绯荤粺鎬ц嚜鍔ㄥ鏌?(Go) |
-| [keeplearning](https://github.com/Dasooul03/keeplearning) | AI Agent 瀛︿範涔嬫梾 鈥?Python 鈫?Agent 寮€鍙?鈫?RAG 鈫?椤圭洰瀹炴垬 |
+| [oh-my-agent](https://github.com/Dasooul03/oh-my-agent) | Cross-agent governance layer for AI coding agents — audit, policy, context, MCP |
+| [ai-install-assistant](https://github.com/Dasooul03/ai-install-assistant) | 🤖 Enterprise-grade multi-agent AI platform for software installation & deployment. Powered by Spring Boot + Spring AI + LangChain4j + MCP + RAG + Milvus. / 企业级智能安装部署平台，支持 Agent Router、多模态识别、RAG 检索与自动化流程 |
+| [boss_agent](https://github.com/Dasooul03/boss_agent) | BOSS 直聘自动投递机器人 — Python + Tampermonkey 自动筛选关键字投递 |
+| [spark-reimbursement](https://github.com/Dasooul03/spark-reimbursement) | AI 智能报销审核与金蝶凭证中台系统 — Spring Boot 3.4 + OCR + AI 初审 + PDF 凭证 |
+| [code-review-agent](https://github.com/Dasooul03/code-review-agent) | 智能代码审查 Agent — 对每个 PR/MR 进行系统性自动审查 (Go) |
+| [keeplearning](https://github.com/Dasooul03/keeplearning) | AI Agent 学习之旅 — Python → Agent 开发 → RAG → 项目实战 |
 | [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research with multi-agent orchestration, SSE streaming & report generation |
-| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent for indexing code repos and answering questions with hybrid search (Dense + BM25) & LangGraph / 浠ｇ爜浠撳簱鏅鸿兘闂瓟锛屾贩鍚堟绱?+ LangGraph 缂栨帓 |
-| [video-content-moderation](https://github.com/Dasooul03/video-content-moderation) | 鍩轰簬 YOLOv8 + CLIP 鐨勫妯℃€佽棰戝鏍哥郴缁?/ Video content moderation with multimodal detection |
-| [caibao](https://github.com/Dasooul03/caibao) | AI 瑙嗚瀵硅瘽鍔╂墜 鈥?Web 绔疄鐜?|
+| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent for indexing code repos and answering questions with hybrid search (Dense + BM25) & LangGraph / 代码仓库智能问答，混合检索 + LangGraph 编排 |
+| [video-content-moderation](https://github.com/Dasooul03/video-content-moderation) | 基于 YOLOv8 + CLIP 的多模态视频审核系统 / Video content moderation with multimodal detection |
+| [caibao](https://github.com/Dasooul03/caibao) | AI 视觉对话助手 — Web 端实现 |
 
-### Tech Stack / 鎶€鏈爤
+### Tech Stack / 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,7 +54,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### Contact / 鑱旂郴鏂瑰紡
+### Contact / 联系方式
 
 <p align="center">
   <a href="mailto:daijuyicoding@qq.com">
@@ -66,5 +70,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dasooul03&color=blue&style=flat-square" alt="Profile Views" />
   <br/>
-  <sub>Updated Jul 2026 | 涓冩湀鏇存柊</sub>
+  <sub>Updated Jul 2026 | 七月更新</sub>
 </p>
