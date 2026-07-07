@@ -14,16 +14,16 @@
 
 | Project | Description / 描述 |
 |---------|-------------------|
-| [oh-my-agent](https://github.com/Dasooul03/oh-my-agent) | Cross-agent governance layer for AI coding agents — audit, policy, context, MCP |
-| [ai-install-assistant](https://github.com/Dasooul03/ai-install-assistant) | 🤖 Enterprise-grade multi-agent AI platform for software installation & deployment. Powered by Spring Boot + Spring AI + LangChain4j + MCP + RAG + Milvus. / 企业级智能安装部署平台，支持 Agent Router、多模态识别、RAG 检索与自动化流程 |
-| [boss_agent](https://github.com/Dasooul03/boss_agent) | BOSS 直聘自动投递机器人 — Python + Tampermonkey 自动筛选关键字投递 |
-| [spark-reimbursement](https://github.com/Dasooul03/spark-reimbursement) | AI 智能报销审核与金蝶凭证中台系统 — Spring Boot 3.4 + OCR + AI 初审 + PDF 凭证 |
-| [code-review-agent](https://github.com/Dasooul03/code-review-agent) | 智能代码审查 Agent — 对每个 PR/MR 进行系统性自动审查 (Go) |
-| [keeplearning](https://github.com/Dasooul03/keeplearning) | AI Agent 学习之旅 — Python → Agent 开发 → RAG → 项目实战 |
-| [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research with multi-agent orchestration, SSE streaming & report generation |
-| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent for indexing code repos and answering questions with hybrid search (Dense + BM25) & LangGraph / 代码仓库智能问答，混合检索 + LangGraph 编排 |
+| [oh-my-agent](https://github.com/Dasooul03/oh-my-agent) | Cross-agent governance layer for AI coding agents - audit, policy, context, MCP |
+| [ai-install-assistant](https://github.com/Dasooul03/ai-install-assistant) | Enterprise-grade multi-agent AI platform for software installation & deployment. Powered by Spring Boot + Spring AI + LangChain4j + MCP + RAG + Milvus. / 企业级智能安装部署平台，支持 Agent Router、多模态识别、RAG 检索与自动化流程 |
+| [boss_agent](https://github.com/Dasooul03/boss_agent) | BOSS 直聘自动投递机器人 - Python + Tampermonkey 自动筛选关键字投递 |
+| [spark-reimbursement](https://github.com/Dasooul03/spark-reimbursement) | AI 智能报销审核与金蝶凭证中台系统 - Spring Boot 3.4 + OCR + AI 初审 + PDF 凭证 |
+| [code-review-agent](https://github.com/Dasooul03/code-review-agent) | 智能代码审查 Agent - 对每个 PR/MR 进行系统性自动审查 (Go) |
+| [keeplearning](https://github.com/Dasooul03/keeplearning) | AI Agent 学习之旅 - Python to Agent 开发 to RAG to 项目实战 |
+| [defi-research-agent](https://github.com/Dasooul03/defi-research-agent) | AI Agent for DeFi research with multi-agent orchestration, SSE streaming and report generation |
+| [code-repository-qa-agent](https://github.com/Dasooul03/code-repository-qa-agent) | Agent for indexing code repos and answering questions with hybrid search (Dense + BM25) and LangGraph / 代码仓库智能问答，混合检索 + LangGraph 编排 |
 | [video-content-moderation](https://github.com/Dasooul03/video-content-moderation) | 基于 YOLOv8 + CLIP 的多模态视频审核系统 / Video content moderation with multimodal detection |
-| [caibao](https://github.com/Dasooul03/caibao) | AI 视觉对话助手 — Web 端实现 |
+| [caibao](https://github.com/Dasooul03/caibao) | AI 视觉对话助手 - Web 端实现 |
 
 ### Tech Stack / 技术栈
 
