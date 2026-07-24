@@ -12,7 +12,6 @@ I build multi-agent systems, developer tools, and automation workflows that turn
 
 <p>
   <a href="http://124.221.110.20"><img src="https://img.shields.io/badge/Personal_Site-Visit-3C96F3?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal Site" /></a>
-  <a href="https://github.com/Dasooul03/code-repository-qa-agent"><img src="https://img.shields.io/badge/Main_Project-code--repository--qa--agent-238636?style=flat-square&logo=python&logoColor=white" alt="Main Project" /></a>
 </p>
 
 </div>
